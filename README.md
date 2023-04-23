@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/uinteger32/GreenBoxTCP/blob/main/GreenBoxTcp.png?raw=true"  width="10%" height="10%">
+<img src="https://github.com/uinteger32/GreenBoxTCP/blob/main/GreenBoxTcp.png?raw=true"  width="20%" height="20%">
 </p>
 
 # GreenBoxTCP
